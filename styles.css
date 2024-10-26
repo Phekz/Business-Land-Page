@@ -1,0 +1,33 @@
+@import url("styles/header.css");
+@import url("styles/escrito.css");
+@import url("styles/vagas.css");
+@import url("styles/teste.css");
+
+
+:root{
+    --fonte_principal: "Roboto Condensed", sans-serif;
+    --cinza_claro: #F9F9FB;
+    --cinza: #3E404C;
+    --cinza_escuro: #e0e0e0;
+    --branco: #FFFFFF;
+    --azul: #443FDE;
+    --azul_claro: #F3F3FC;
+    --laranja: #C98B40;
+    --laranja_claro: #FEF7F1;
+    --preto: #030407;
+}
+
+
+
+
+
+
+
+
+
+
+body{
+    font-family: var(--fonte_principal);
+    font-size: 16px;
+    font-weight: 400;
+}
